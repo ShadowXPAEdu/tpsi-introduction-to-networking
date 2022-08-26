@@ -6,8 +6,8 @@ This subject focused on learning how networks work, as well as configure and tes
 
 This subject did not have an assignment so this repository contains only what was done during class.
 
-## Final Grade
+## Conclusions
 
-The grades go from **0** to **20**. They were divided into **Continuous Evaluation** and **Exam**. The formula for the final grade is **`0.5 * CE + 0.5 * E`**, where **CE** is the **Continuous Evaluation** grade, and **E** is the **Exam** grade.  
-My **CE** grade was **19.2**, and my **E** grade was **17.8**.  
-So the **final grade** was **19**.
+A good subject that introduced how networks work, and how to configure routers in order to build a network.  
+
+Final Grade: 19
